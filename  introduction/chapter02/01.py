@@ -11,3 +11,4 @@ print("""Python Start!""")
 print()
 
 # separator 옵션
+print('P', 'Y', 'T', 'H', 'O', 'N')
