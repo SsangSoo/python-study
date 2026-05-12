@@ -60,3 +60,6 @@ if city2:
 else:
     print("plz enter your city")
 
+
+# 논리연산자(중요)
+# 
